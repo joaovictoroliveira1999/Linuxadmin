@@ -1,2 +1,2 @@
 # Linuxadmin
-Oi, seja bem vindo ao github.
+Oi, seja bem vindo ao github !
